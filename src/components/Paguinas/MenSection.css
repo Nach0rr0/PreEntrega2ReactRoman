@@ -27,4 +27,32 @@
 .card button:hover {
   background: #a003c3;
 }
+.men-section {
+  text-align: center;
+}
 
+ h1 {
+  font-size: 36px; 
+  color: #000000; 
+  margin-bottom: 10px; 
+  text-align: center;
+}
+
+p {
+  font-size: 24px; 
+  color: #666; 
+  text-align: center;
+}
+
+h3 {
+  font-size: 20px; 
+  color: #000000; 
+  margin-bottom: 10px; 
+  text-align: center;
+}
+h4 {
+  font-size: 18px; 
+  color: #666; 
+  margin-bottom: 10px; 
+  text-align: center;
+}

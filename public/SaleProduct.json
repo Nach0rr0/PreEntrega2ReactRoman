@@ -1,0 +1,71 @@
+[
+    {
+    "id": 1,
+    "name":"Elmo KAWS ",
+    "descripcion":"KAWS ",
+    "price":120,
+    "img":"https://down-cl.img.susercontent.com/file/sg-11134202-23030-39dtuospunov0e",
+    "quanty": 1
+    },
+    {
+        "id": 2,
+        "name":"007 Figuras de Acción James Bond",
+        "descripcion":"Figuras de Acción",
+        "price":500,
+        "img":"https://i.ebayimg.com/images/g/OC8AAOSw~zRkfRJ2/s-l1600.jpg",
+        "quanty": 1
+        },
+        
+    {
+        "id": 4,
+        "name":"KAWS Family",
+        "descripcion":"KAWS",
+        "price":2100,
+        "img":"https://cdn-images.farfetch-contents.com/18/18/75/52/18187552_38751948_1000.jpg",
+         "quanty": 1
+        
+        },
+    
+     {
+              "id": 5,
+                "name":"INCREÍBLE SPIDER-MAN 50 PRIMERA APARICIÓN DE KINGPIN",
+                "descripcion":"Comic",
+                "price":2200,
+                "img":"https://i.ebayimg.com/images/g/MdcAAOSwMItlE1GY/s-l500.jpg",
+                "quanty": 1
+                },
+                {
+                    "id": 6,
+                    "name":"Figura de acción electrónica de Marve",
+                    "descripcion":"Figura de acción",
+                    "price": 80,
+                    "img":"https://i.ebayimg.com/images/g/dukAAOSw0cBlBJ3z/s-l1600.png",
+                    "quanty": 1
+                },
+                {
+                    "id": 7,
+                    "name":"Kenner Star Wars 12 1978 Back-A Jawa ",
+                    "descripcion":"Figura de acción",
+                    "price":1300,
+                    "img":"https://i.ebayimg.com/images/g/wusAAOSw4LhjtkGf/s-l1600.jpg",
+                     "quanty": 1
+                    
+                    },
+                 {
+                          "id": 8,
+                            "name":" Masters of the Universe He-Man",
+                            "descripcion":"Figura de acción",
+                            "price":50,
+                            "img":"https://i.ebayimg.com/images/g/ZKkAAOSwZOljxPdO/s-l1600.jpg",
+                            "quanty": 1
+                            },
+                         {
+                                "id": 9,
+                                "name":"KAWS The Promise",
+                                "descripcion":"KAWS",
+                                "price": 1200,
+                                "img":"https://cdn-images.farfetch-contents.com/19/54/92/24/19549224_43525067_1000.jpg",
+                                "quanty": 1
+                            }
+    ]
+    
